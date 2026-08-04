@@ -1,0 +1,6 @@
+{
+  "name": "CheckpointOS",
+  "description": "Agent Memory Runtime for long-lived AI agents with automatic state snapshots, hot/warm/cold memory paging, and instant crash recovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
